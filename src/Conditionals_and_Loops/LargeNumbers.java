@@ -35,7 +35,7 @@ public class LargeNumbers
 
 }
 
-/* Kunal kushwaha metghod
+/* Other Method
 
 Scanner input = new Scanner(System.in);
 
